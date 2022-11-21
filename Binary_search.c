@@ -27,7 +27,7 @@ int main()
         bin(Arr,n);
         printf("Do you wish to continue:Y/N\n");
         scanf("%s",&ch);
-       // while(getchar()!='\n');
+        while(getchar()!='\n');
     }
     return 0;
 }
